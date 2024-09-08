@@ -12,7 +12,7 @@ Este repositorio contiene la configuración de un entorno Docker para ejecutar u
 
 ## Descargar la Imagen desde Docker Hub
 
-Si prefieres no construir la imagen localmente, puedes descargar la imagen preconstruida desde Docker Hub:
+Puedes descargar la imagen preconstruida desde Docker Hub:
 
 ### Paso 1: Descargar la Imagen
 
